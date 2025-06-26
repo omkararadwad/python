@@ -4,7 +4,7 @@ This project demonstrates deploying a Django app to AWS EC2 using Gunicorn, Ngin
 
 ##  Project Setup
 
-### CLone the repo
+### Clone the repo
 git clone <repo_url>
 
 ### Run Django Project
